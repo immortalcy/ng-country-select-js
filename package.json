@@ -1,6 +1,6 @@
 {
   "name": "ng-country-select",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "AngularJS directive for country-select-js jQuery plugin",
   "keywords": [
     "international",
