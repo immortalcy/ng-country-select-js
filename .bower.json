@@ -9,7 +9,7 @@
     "country-select-js": "~1.0.9"
   },
   "homepage": "https://github.com/immortalcy/ng-country-select-js",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "_source": "git://github.com/immortalcy/ng-country-select-js.git",
   "_target": "*",
   "_originalSource": "ng-country-select"
