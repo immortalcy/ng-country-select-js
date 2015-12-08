@@ -9,11 +9,11 @@
     "country-select-js": "~1.0.9"
   },
   "homepage": "https://github.com/immortalcy/ng-country-select-js",
-  "version": "0.0.1",
-  "_release": "0.0.1",
+  "version": "0.0.2",
+  "_release": "0.0.2",
   "_resolution": {
     "type": "version",
-    "tag": "0.0.1",
+    "tag": "0.0.2",
     "commit": "b85fc056eed022b7d7e2550b6b4ab48e00610361"
   },
   "_source": "git://github.com/immortalcy/ng-country-select-js.git",
