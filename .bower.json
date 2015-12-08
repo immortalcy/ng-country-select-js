@@ -1,6 +1,6 @@
 {
-  "name": "ng-country-select-js",
-  "main": "dist/ng-country-select.min.js",
+  "name": "ng-country-select",
+  "main": "dist/ng-country-select.js",
   "description": "AngularJS directive for country-select-js jQuery plugin",
   "author": "George Nikolaides (http://gnik.me)",
   "license": "MIT",
@@ -18,5 +18,5 @@
   },
   "_source": "git://github.com/immortalcy/ng-country-select-js.git",
   "_target": "*",
-  "_originalSource": "ng-country-select-js"
+  "_originalSource": "ng-country-select"
 }

@@ -69,7 +69,7 @@
                             }
                             element.intlTelInput(options);
                             if (!(attrs.skipUtilScriptDownload !== void 0 || options.utilsScript)) {
-                                element.intlTelInput('loadUtils', '/bower_components/intl-tel-input/lib/libphonenumber/build/utils.js');
+                                element.intlTelInput('loadUtils', '/bower_components/country-select-js/build/js/countrySelect.min.js');
                             }
                             return watchOnce();
                         });
