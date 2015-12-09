@@ -63,6 +63,7 @@
                     element.on('blur keyup change', function (event) {
                         return scope.$apply(read);
                     });
+
                     return element.on('$destroy', function () {
                         element.countrySelect('destroy');
                         return element.off('blur keyup change');
